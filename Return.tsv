@@ -1,0 +1,37 @@
+			Annualized Excess Return Over Market	Annualized Volatility of Excess Return	Sharpe Ratio	T-Stat Excess Return	Max Drawdown
+Filter	Model	Weighting					
+Top 100 By Market Value		Equal	-1.2208%	2.9858%	0.3416	-1.9820	51.0144%
+Market Value Regression	Proportional Rank	-1.3216%	3.7438%	0.3249	-1.7113	53.0689%
+Double Leverage Rank	5.4002%	16.6219%	0.3744	1.5749	83.0239%
+All COMPUSTAT Regression	Proportional Rank	-0.0606%	3.993%	0.4385	-0.0736	47.1193%
+Double Leverage Rank	7.9222%	14.2929%	0.4925	2.6869	74.1875%
+Middle 100 By Market Value		Equal	1.4889%	14.597%	0.3185	0.4945	63.4365%
+Market Value Regression	Proportional Rank	0.6091%	15.0134%	0.2794	0.1967	62.644%
+Double Leverage Rank	9.2616%	38.5356%	0.3101	1.1651	89.1969%
+All COMPUSTAT Regression	Proportional Rank	1.8787%	13.5257%	0.3530	0.6733	57.2764%
+Double Leverage Rank	11.8008%	35.1274%	0.3859	1.6285	85.2649%
+Top 100 By Accrual		Equal	-0.6141%	35.7513%	0.1351	-0.0833	86.0294%
+Market Value Regression	Proportional Rank	22.8481%	35.1689%	0.6717	3.1494	68.4165%
+Double Leverage Rank	53.7396%	77.6489%	0.6898	3.3550	96.828%
+All COMPUSTAT Regression	Proportional Rank	1.665%	35.4354%	0.1922	0.2278	82.5518%
+Double Leverage Rank	11.3734%	76.5031%	0.2106	0.7207	98.9457%
+Top 100 By Chained Filtering		Equal	0.459%	31.0186%	0.1783	0.0717	79.5133%
+Market Value Regression	Proportional Rank	17.8712%	31.0003%	0.6212	2.7946	71.3684%
+Double Leverage Rank	43.7858%	68.8308%	0.6413	3.0838	97.5095%
+All COMPUSTAT Regression	Proportional Rank	2.1204%	30.3868%	0.2260	0.3383	74.7265%
+Double Leverage Rank	12.2842%	67.018%	0.2465	0.8886	98.5479%
+Top 100 By Chained Filtering 2		Equal	1.5897%	26.6869%	0.2333	0.2888	76.5831%
+Market Value Regression	Proportional Rank	16.0416%	26.7199%	0.6423	2.9104	67.6489%
+Double Leverage Rank	40.1266%	60.2631%	0.6646	3.2279	95.8361%
+All COMPUSTAT Regression	Proportional Rank	2.6951%	26.8229%	0.2651	0.4871	78.7711%
+Double Leverage Rank	13.4336%	59.8403%	0.2877	1.0883	98.2116%
+Top 100 By Chained Filtering 3		Equal	3.6964%	30.5718%	0.2670	0.5861	80.29%
+Market Value Regression	Proportional Rank	26.2537%	28.6901%	0.8935	4.4360	53.117%
+Double Leverage Rank	60.5508%	63.8358%	0.9150	4.5982	83.2471%
+All COMPUSTAT Regression	Proportional Rank	4.6432%	28.427%	0.3091	0.7918	75.153%
+Double Leverage Rank	17.3299%	62.8617%	0.3308	1.3364	97.147%
+Top 100 By Chained Filtering 4		Equal	12.3725%	23.9804%	0.5787	2.5011	61.6506%
+Market Value Regression	Proportional Rank	23.5862%	21.5744%	0.9666	5.2997	51.5064%
+Double Leverage Rank	55.2159%	51.0627%	0.9923	5.2420	81.161%
+All COMPUSTAT Regression	Proportional Rank	11.4119%	23.64%	0.5523	2.3402	58.0288%
+Double Leverage Rank	30.8672%	54.3853%	0.5768	2.7514	90.2747%
